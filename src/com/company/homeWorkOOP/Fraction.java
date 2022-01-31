@@ -1,4 +1,4 @@
-package com.company;
+package com.company.homeWorkOOP;
 
 public class Fraction {
     /*    Создать класс Fraction, который представляет собой простую математическую дробь.
